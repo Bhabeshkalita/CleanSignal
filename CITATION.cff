@@ -1,0 +1,24 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: CleanSignal
+message: >-
+  If you use this dataset, please cite it using the metadata
+  from this file.
+type: dataset
+authors:
+  - given-names: 'Bhabesh '
+    family-names: Kalita
+    email: imbkalita@gmail.com
+  - given-names: Daisy
+    family-names: Das
+    email: daisydas88@gmail.com
+identifiers:
+  - type: url
+    value: 'https://github.com/Bhabeshkalita/CleanSignal.git'
+abstract: >-
+  GAN-generated clean EEG signals, removing artifacts like
+  Eye Blinks, Eye Movements, Chewing, and Teeth Clenching.
+keywords:
+  - 'GAN, Eye Blink, Eye Movement, Chewing, Clench Teeth'
